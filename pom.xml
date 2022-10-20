@@ -10,9 +10,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>cs-programming-java</module>
         <module>images</module>
-        <module>springboot</module>
+        <module>demo</module>
     </modules>
 
     <name>home</name>
