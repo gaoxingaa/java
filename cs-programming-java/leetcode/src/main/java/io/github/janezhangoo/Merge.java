@@ -1,4 +1,4 @@
-package io.github.janezhangoo.leetcode;
+package io.github.janezhangoo;
 
 public class Merge {
 

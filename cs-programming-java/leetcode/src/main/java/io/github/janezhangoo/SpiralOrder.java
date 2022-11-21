@@ -1,4 +1,4 @@
-package io.github.janezhangoo.leetcode;
+package io.github.janezhangoo;
 
 import java.util.ArrayList;
 import java.util.List;
