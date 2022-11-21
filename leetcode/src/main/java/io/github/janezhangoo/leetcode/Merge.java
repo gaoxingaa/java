@@ -3,8 +3,18 @@ package io.github.janezhangoo.leetcode;
 public class Merge {
 
     public static void main(String[] args){
-        mergeTwoLists(new ListNode(1, new ListNode(4)), null);
+//        mergeTwoLists(new ListNode(1, new ListNode(4)), null);
+        reverseList(new ListNode(1, new ListNode(4)));
     }
+
+    public static ListNode reverseList(ListNode head) {
+        ListNode newHead = new ListNode();
+        while(head!=null){
+
+        }
+        return newHead;
+    }
+
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode head = new ListNode(0);
         ListNode currentSmaller;
