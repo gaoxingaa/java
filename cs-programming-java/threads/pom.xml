@@ -12,7 +12,7 @@
     <artifactId>threads</artifactId>
     <packaging>jar</packaging>
 
-    <name>A Camel Route</name>
+    <name>Thread demo</name>
 
     <dependencyManagement>
 
